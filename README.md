@@ -19,7 +19,7 @@ This tool is **made for you**.
 5. **Run** the proxy_toggler.exe file once and then done. Dont delete the file, that's not a setup file.
 
 ### After setup
-It runs automatically and in ideal scenario if not hindered by NTVirus, it should run in the background as soon as you bootup the PC.
+It runs automatically and in ideal scenario if not hindered by [NTVirus](https://www.minitool.com/images/uploads/2019/08/windows-nt.jpg), it should run in the background as soon as you bootup the PC.
 
 ```ini
 # C:\ProxyToggler\config.ini
