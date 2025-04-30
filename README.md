@@ -17,6 +17,9 @@ This tool is **made for you**.
 3. **Place** the `config.ini` file inside `C:\ProxyToggler\`.
 4. **Edit** the config file with your IIITA credentials:
 
+### After setup
+It runs automatically and in ideal scenario if not hindered by NTVirus, it should run in the background as soon as you bootup the PC.
+
 ```ini
 # C:\ProxyToggler\config.ini
 
