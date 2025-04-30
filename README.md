@@ -1,17 +1,25 @@
-# IIITAProxyToggler
+# 🚀 IIITAProxyToggler
 
-If you are someone who is fed up of toggling proxy when jumping to and from IIITA College Network and some other non proxied network
-If you are also fed up of doing fixwifi.it every hour
+Tired of manually toggling proxies every time you switch between the **IIITA college network** and a regular, non-proxied network?
 
-maybe this is for you.
+Annoyed by having to run `fixwifi.it` every hour just to survive on campus WiFi?
 
+This tool is **made for you**.
 
- - Works for Windows 
-   Get the .exe file from dist directory
-   Make a directory ProxyToggler in C:\ and put the config file in it
-   Edit the C:\ProxyToggler\config.ini 
+---
 
-- config.ini
-  [creds]
-  uname=<enrolment-number>
-  pwd=<password>
+### Works on: Windows
+
+### Setup Instructions
+
+1. **Download** the `.exe` from the `dist/` directory.
+2. **Create** a folder named `ProxyToggler` in `C:\`.
+3. **Place** the `config.ini` file inside `C:\ProxyToggler\`.
+4. **Edit** the config file with your IIITA credentials:
+
+```ini
+# C:\ProxyToggler\config.ini
+
+[creds]
+uname=<your-enrolment-number>
+pwd=<your-ldap-password>
